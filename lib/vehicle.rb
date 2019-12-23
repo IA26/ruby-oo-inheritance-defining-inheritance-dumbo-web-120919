@@ -8,4 +8,7 @@ class Vehicle
   def go 
     returns 'vrrrrrrrooom!'
   end 
+  
+  def fill_up_tank
+  end 
 end
